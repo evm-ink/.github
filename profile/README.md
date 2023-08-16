@@ -4,5 +4,5 @@
   </a>
 
   <h1>EVM.INK</h1>
-  <h3>Instantly inscribe truly decentralised tokens in a few clicks!</h2>
+  <h3>Cross-chain Indexing for Bridgeless Interoperability</h3>
 </div>
